@@ -3,7 +3,7 @@ package es.geeksusma.workshops.domain.employee;
 import java.util.ArrayList;
 import java.util.List;
 
-class Employees {
+public class Employees {
 
     private final List<Employee> values;
 

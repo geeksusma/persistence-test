@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-class Departments {
+public class Departments {
     private List<Department> values;
 
     private Departments() {

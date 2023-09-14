@@ -1,6 +1,6 @@
 package es.geeksusma.workshops.domain.employee;
 
-enum  Department {
+public enum  Department {
 
     HR,ENGINEERING,SALES,TALENT
 }
