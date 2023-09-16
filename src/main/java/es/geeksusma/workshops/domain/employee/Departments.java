@@ -11,11 +11,11 @@ public class Departments {
         this.values = new ArrayList<>();
     }
 
-    static Departments empty() {
+    public static Departments empty() {
         return new Departments();
     }
 
-    void add(Department department) {
+    public void add(Department department) {
         this.values.add(department);
     }
 
